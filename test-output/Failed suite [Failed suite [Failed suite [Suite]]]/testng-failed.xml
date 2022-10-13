@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Failed suite [Suite]]]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)(failed)(failed)(failed)">
+    <parameter name="BrowserName" value="chrome"/>
+    <classes>
+      <class name="Sauce_Demo_TestClass.TC_04_Sauce_Demo_Verify_Products_ADDTOCART">
+        <methods>
+          <include name="Verify_SingleProduct_ADDTOCART"/>
+          <include name="Setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- Sauce_Demo_TestClass.TC_04_Sauce_Demo_Verify_Products_ADDTOCART -->
+      <class name="Sauce_Demo_TestClass.TC_01_Verify_Login_Functionality">
+        <methods>
+          <include name="INvalid_Credentials"/>
+        </methods>
+      </class> <!-- Sauce_Demo_TestClass.TC_01_Verify_Login_Functionality -->
+    </classes>
+  </test> <!-- Test(failed)(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Failed suite [Suite]]]] -->

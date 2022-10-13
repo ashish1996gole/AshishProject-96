@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T00:14:26 IST" name="Suite" finished-at="2022-10-03T00:15:15 IST" duration-ms="48863">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T00:14:26 IST" name="Test" finished-at="2022-10-03T00:15:15 IST" duration-ms="48863">
+      <class name="Sauce_Demo_TestClass.TC_03_Sauce_Demo_Verify_FilterButton">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:Sauce_Demo_TestClass.TC_03_Sauce_Demo_Verify_FilterButton@3bb9a3ff]" started-at="2022-10-03T00:14:26 IST" name="Setup" finished-at="2022-10-03T00:14:38 IST" duration-ms="11904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="_Verify_FilterButton()[pri:0, instance:Sauce_Demo_TestClass.TC_03_Sauce_Demo_Verify_FilterButton@3bb9a3ff]" started-at="2022-10-03T00:14:38 IST" name="_Verify_FilterButton" finished-at="2022-10-03T00:14:40 IST" duration-ms="2355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- _Verify_FilterButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Sauce_Demo_TestClass.TC_03_Sauce_Demo_Verify_FilterButton@3bb9a3ff]" started-at="2022-10-03T00:14:40 IST" name="tearDown" finished-at="2022-10-03T00:14:52 IST" duration-ms="11869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Sauce_Demo_TestClass.TC_03_Sauce_Demo_Verify_FilterButton -->
+      <class name="Sauce_Demo_TestClass.TC_02_Sauce_Demo_Verify_Login_Functionality">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:Sauce_Demo_TestClass.TC_02_Sauce_Demo_Verify_Login_Functionality@323b36e0]" started-at="2022-10-03T00:14:52 IST" name="Setup" finished-at="2022-10-03T00:15:04 IST" duration-ms="11562" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Verify_Login_Functionality()[pri:0, instance:Sauce_Demo_TestClass.TC_02_Sauce_Demo_Verify_Login_Functionality@323b36e0]" started-at="2022-10-03T00:15:04 IST" name="Verify_Login_Functionality" finished-at="2022-10-03T00:15:04 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Login_Functionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Sauce_Demo_TestClass.TC_02_Sauce_Demo_Verify_Login_Functionality@323b36e0]" started-at="2022-10-03T00:15:04 IST" name="tearDown" finished-at="2022-10-03T00:15:06 IST" duration-ms="1964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Sauce_Demo_TestClass.TC_02_Sauce_Demo_Verify_Login_Functionality -->
+      <class name="Sauce_Demo_TestClass.TC_05_Sauce_Demo_Verify_checkout">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:Sauce_Demo_TestClass.TC_05_Sauce_Demo_Verify_checkout@5af3afd9]" started-at="2022-10-03T00:14:51 IST" name="Setup" finished-at="2022-10-03T00:15:01 IST" duration-ms="10196" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Verify_checkout()[pri:0, instance:Sauce_Demo_TestClass.TC_05_Sauce_Demo_Verify_checkout@5af3afd9]" started-at="2022-10-03T00:15:01 IST" name="Verify_checkout" finished-at="2022-10-03T00:15:06 IST" duration-ms="4446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_checkout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Sauce_Demo_TestClass.TC_05_Sauce_Demo_Verify_checkout@5af3afd9]" started-at="2022-10-03T00:15:06 IST" name="tearDown" finished-at="2022-10-03T00:15:07 IST" duration-ms="1028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Sauce_Demo_TestClass.TC_05_Sauce_Demo_Verify_checkout -->
+      <class name="Sauce_Demo_TestClass.TC_08_Sauce_demo_AddAll_product_cart">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:Sauce_Demo_TestClass.TC_08_Sauce_demo_AddAll_product_cart@661972b0]" started-at="2022-10-03T00:14:26 IST" name="Setup" finished-at="2022-10-03T00:14:37 IST" duration-ms="11032" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Verify_MultipleProduct_ADDTOCART()[pri:0, instance:Sauce_Demo_TestClass.TC_08_Sauce_demo_AddAll_product_cart@661972b0]" started-at="2022-10-03T00:14:37 IST" name="Verify_MultipleProduct_ADDTOCART" finished-at="2022-10-03T00:14:39 IST" duration-ms="1940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_MultipleProduct_ADDTOCART -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Sauce_Demo_TestClass.TC_08_Sauce_demo_AddAll_product_cart@661972b0]" started-at="2022-10-03T00:14:39 IST" name="tearDown" finished-at="2022-10-03T00:14:51 IST" duration-ms="12034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Sauce_Demo_TestClass.TC_08_Sauce_demo_AddAll_product_cart -->
+      <class name="Sauce_Demo_TestClass.TC_07_Sauce_Demo_Verify_RemoveProduct_CArt">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:Sauce_Demo_TestClass.TC_07_Sauce_Demo_Verify_RemoveProduct_CArt@44ebcd03]" started-at="2022-10-03T00:14:52 IST" name="Setup" finished-at="2022-10-03T00:15:02 IST" duration-ms="9553" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Verify_RemoveProduct_CArt()[pri:0, instance:Sauce_Demo_TestClass.TC_07_Sauce_Demo_Verify_RemoveProduct_CArt@44ebcd03]" started-at="2022-10-03T00:15:02 IST" name="Verify_RemoveProduct_CArt" finished-at="2022-10-03T00:15:04 IST" duration-ms="2137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_RemoveProduct_CArt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Sauce_Demo_TestClass.TC_07_Sauce_Demo_Verify_RemoveProduct_CArt@44ebcd03]" started-at="2022-10-03T00:15:04 IST" name="tearDown" finished-at="2022-10-03T00:15:06 IST" duration-ms="2248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Sauce_Demo_TestClass.TC_07_Sauce_Demo_Verify_RemoveProduct_CArt -->
+      <class name="Sauce_Demo_TestClass.TC_04_Sauce_Demo_Verify_Products_ADDTOCART">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:Sauce_Demo_TestClass.TC_04_Sauce_Demo_Verify_Products_ADDTOCART@3835c46]" started-at="2022-10-03T00:14:26 IST" name="Setup" finished-at="2022-10-03T00:14:36 IST" duration-ms="10364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Verify_SingleProduct_ADDTOCART()[pri:0, instance:Sauce_Demo_TestClass.TC_04_Sauce_Demo_Verify_Products_ADDTOCART@3835c46]" started-at="2022-10-03T00:14:36 IST" name="Verify_SingleProduct_ADDTOCART" finished-at="2022-10-03T00:14:37 IST" duration-ms="1156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_SingleProduct_ADDTOCART -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Sauce_Demo_TestClass.TC_04_Sauce_Demo_Verify_Products_ADDTOCART@3835c46]" started-at="2022-10-03T00:14:37 IST" name="tearDown" finished-at="2022-10-03T00:14:52 IST" duration-ms="14622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Sauce_Demo_TestClass.TC_04_Sauce_Demo_Verify_Products_ADDTOCART -->
+      <class name="Sauce_Demo_TestClass.TC_06_Sauce_Demo_Verify_CancleCheckout">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:Sauce_Demo_TestClass.TC_06_Sauce_Demo_Verify_CancleCheckout@694abbdc]" started-at="2022-10-03T00:15:06 IST" name="Setup" finished-at="2022-10-03T00:15:12 IST" duration-ms="5975" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Verify_checkout()[pri:0, instance:Sauce_Demo_TestClass.TC_06_Sauce_Demo_Verify_CancleCheckout@694abbdc]" started-at="2022-10-03T00:15:12 IST" name="Verify_checkout" finished-at="2022-10-03T00:15:13 IST" duration-ms="1271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_checkout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Sauce_Demo_TestClass.TC_06_Sauce_Demo_Verify_CancleCheckout@694abbdc]" started-at="2022-10-03T00:15:13 IST" name="tearDown" finished-at="2022-10-03T00:15:15 IST" duration-ms="1457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Sauce_Demo_TestClass.TC_06_Sauce_Demo_Verify_CancleCheckout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="3" parallel="classes" name="Test">
+   <parameter name="BrowserName" value="chrome"></parameter>
+    <classes>
+      <class name="Sauce_Demo_TestClass.TC_04_Sauce_Demo_Verify_Products_ADDTOCART"/>
+      <class name="Sauce_Demo_TestClass.TC_08_Sauce_demo_AddAll_product_cart"/>
+      <class name="Sauce_Demo_TestClass.TC_05_Sauce_Demo_Verify_checkout"/>
+      <class name="Sauce_Demo_TestClass.TC_02_Sauce_Demo_Verify_Login_Functionality"/>
+      <class name="Sauce_Demo_TestClass.TC_07_Sauce_Demo_Verify_RemoveProduct_CArt"/>
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="3" parallel="classes" name="Test">
+   <parameter name="BrowserName" value="firefox"></parameter>
+    <classes>
+      <class name="Sauce_Demo_TestClass.TC_04_Sauce_Demo_Verify_Products_ADDTOCART"/>
+      <class name="Sauce_Demo_TestClass.TC_08_Sauce_demo_AddAll_product_cart"/>
+      <class name="Sauce_Demo_TestClass.TC_05_Sauce_Demo_Verify_checkout"/>
+      <class name="Sauce_Demo_TestClass.TC_02_Sauce_Demo_Verify_Login_Functionality"/>
+      <class name="Sauce_Demo_TestClass.TC_07_Sauce_Demo_Verify_RemoveProduct_CArt"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
